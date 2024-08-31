@@ -27,3 +27,4 @@ li $v0,10	#exit code
 syscall
 
 
+#after commiting.(tutorial on editing.)
